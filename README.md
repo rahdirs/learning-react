@@ -2,7 +2,7 @@
 ES6, React project setup, and React programming.
 
 ### ES6
- - Difference between var, let and cost
+ - Difference between var, let and const
  - Arrow function and difference between normal function
  - String interpolation
  - Object destructuring
