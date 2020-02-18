@@ -13,4 +13,4 @@ ES6, React project setup, and React programming.
 
 ### Reference Link:
 
- - [Object destructuring](https://dev.to/sarah_chima/object-destructuring-in-es6-3fm###){:target="_blank"}
+ - [Object destructuring](https://dev.to/sarah_chima/object-destructuring-in-es6-3fm###) {:target="_blank"}
