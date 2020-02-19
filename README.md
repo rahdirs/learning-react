@@ -79,6 +79,36 @@ express.urlencoded | parses incoming requests with URL-encoded payloads.
 
 ![react-script](img/react-script.png)
 
+### React Programming
+ - props
+ - state
+ - Class Component 
+ - Functional Component
+ - JSX
+ - Updating State
+ - Virtual DOM[VDOM](https://www.geeksforgeeks.org/reactjs-virtual-dom/)
+ - Component Lifecycle
+ 
+## Reference Image:
+- State and Props
 
+![State and Props](img/state-props.png)
+
+- Class Component and Functional Component
+
+![Class & Functional Component](img/components.png)
+ 
+- Vitual DOM
+
+![Virtual DOM](img/virtual-dom.png)
+
+- React code(JSX, class and functional component)
+
+![React code for jsx, class and function component](img/react-code.png)
+
+- React Lifecycle
+![React Lifecycle](img/react-lifecycle.png)
+ 
+ 
 
 
