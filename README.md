@@ -89,24 +89,24 @@ express.urlencoded | parses incoming requests with URL-encoded payloads.
  - Virtual DOM[VDOM](https://www.geeksforgeeks.org/reactjs-virtual-dom/)
  - Component Lifecycle
  
-## Reference Image:
-- State and Props
+### Reference Image:
+## State and Props
 
 ![State and Props](img/state-props.png)
 
-- Class Component and Functional Component
+## Class Component and Functional Component
 
 ![Class & Functional Component](img/components.png)
  
-- Vitual DOM
+## Vitual DOM
 
-![Virtual DOM](img/virtual-dom.png)
+![Virtual DOM](img/virtual-dom.jpg)
 
-- React code(JSX, class and functional component)
+## React code(JSX, class and functional component)
 
 ![React code for jsx, class and function component](img/react-code.png)
 
-- React Lifecycle
+## React Lifecycle
 ![React Lifecycle](img/react-lifecycle.png)
  
  
