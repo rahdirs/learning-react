@@ -10,7 +10,77 @@ ES6, React project setup, and React programming.
  - Array Map() method
  - Modules Export and Import
  
-
 ### Reference Link:
 
  - [Object destructuring](https://dev.to/sarah_chima/object-destructuring-in-es6-3fm###)
+
+### React Setup
+ - create-react-app([Reference](https://github.com/facebook/create-react-app))
+ - React Boilerplate
+ - React Custom setup(Toolchain)
+ 
+### React Setup tools
+ - package manager (Yarn or npm)
+ - Webpack(bundler)
+ - Compiler(Babel)
+ - Express(web Application Framework)
+ - react-scripts
+ 
+## NPM package
+ - NPM(Node Package Manager) is a package manager for Node.js packages.
+ ```
+ npm init
+ ```
+ - npm init can be used to set up a new or existing npm package. This comment will creata a package.json file in your directory.
+ - This package.json file contains all installed npm packages with versions.
+ 
+ - [www.npmjs.com](https://www.npmjs.com/)
+ hosts thousands of free packages to download and use.
+
+## Webpack
+ - Webpack is a Javascript module bundler.
+ - Webpack bundle front-end assets like HTML, CSS, images, Javascript, etc.
+
+![Webpack](img/webpack.jpg)
+
+plugins or Loaders  | Use
+--------|-------
+webpack-node-externals | Ignore node_modules when creating the build for the server
+Webpack Dev Middleware | Watches your source files and runs a webpack build anytime you hit save on a file. All changes are handled in memory.
+webpack-hot-middleware | HMR executes the changes in the browser without you having to refresh the page manually.
+
+
+## Babel
+- Babel is mainly used to convert ECMAScript code into compatible version of javascript in current and older browser.
+
+![Babel Conversion](img/babel.png)
+![Babel Conversion Javascript code](img/babel-conversion.png)
+[Babel Tool](https://babeljs.io/repl)
+
+## Express
+ - Express is javascript web application framework that provides you with a simple API, Web apps and back ends.
+ - It parses incoming requests with JSON payloads and is based on body-parser.
+
+![Express](img/express.png)
+
+Module  | Usage
+------- | -------
+express.static | serves static assets such as HTML files, images, and so on.
+express.json | Parses incoming requests with JSON payloads. 
+express.urlencoded | parses incoming requests with URL-encoded payloads.
+
+
+## react-scripts
+- react-scripts is a set of scripts from the create-react-app starter pack.
+- react-scripts contains all configruation for running a react project.
+![react-script](img/react-script.png)
+
+Ref:
+https://survivejs.com/webpack/what-is-webpack/
+
+
+
+
+### Reference Link:
+
+ - [create-react-app](https://github.com/facebook/create-react-app)
