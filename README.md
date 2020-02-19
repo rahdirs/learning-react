@@ -40,7 +40,8 @@ ES6, React project setup, and React programming.
 ## Webpack
  - Webpack is a Javascript module bundler.
  - Webpack bundle front-end assets like HTML, CSS, images, Javascript, etc.
-
+ - [Webpack Reference](https://survivejs.com/webpack/what-is-webpack/)
+ 
 ![Webpack](img/webpack.jpg)
 
 plugins or Loaders  | Use
@@ -54,14 +55,16 @@ webpack-hot-middleware | HMR executes the changes in the browser without you hav
 - Babel is mainly used to convert ECMAScript code into compatible version of javascript in current and older browser.
 
 ![Babel Conversion](img/babel.png)
+
 ![Babel Conversion Javascript code](img/babel-conversion.png)
+
 [Babel Tool](https://babeljs.io/repl)
 
 ## Express
  - Express is javascript web application framework that provides you with a simple API, Web apps and back ends.
  - It parses incoming requests with JSON payloads and is based on body-parser.
 
-![Express](img/express.png)
+![Express](img/express.jpg)
 
 Module  | Usage
 ------- | -------
@@ -73,14 +76,9 @@ express.urlencoded | parses incoming requests with URL-encoded payloads.
 ## react-scripts
 - react-scripts is a set of scripts from the create-react-app starter pack.
 - react-scripts contains all configruation for running a react project.
+
 ![react-script](img/react-script.png)
 
-Ref:
-https://survivejs.com/webpack/what-is-webpack/
 
 
 
-
-### Reference Link:
-
- - [create-react-app](https://github.com/facebook/create-react-app)
