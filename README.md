@@ -135,17 +135,19 @@ Reference: [Axois](http://zetcode.com/javascript/axios/)
 ## Task 1:
 - Setup React project.
 - Download required packages(Axois for API).
-- Access the json data from the Link - (User Json data)[https://jsonplaceholder.typicode.com/users]
+- Access the json data from the Link - [User Json data](https://jsonplaceholder.typicode.com/users)
 - Design the page link below images(Image 1 and Image 2)
 - Create two componets like user card and user display.
 	- User card Component (Image 1)
 	- User detail component(Image 2)
-- Pass the user details as props to user detail child component from user card compontent.
+- Pass the user details as props to user detail(Child Component) from user card compontent(Parent Component).
+- Create the user detail display components.
+- User detail page add Back button and when you click the button it need to go back.
 
-# Image 1:
+### Image 1:
 
 ![User list Page](img/react-user-list.png)
 
-# Image 2:
+### Image 2:
 
 ![User list Page](img/react-user-detail.png)
