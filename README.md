@@ -125,16 +125,16 @@ react-DOM | ReactDOM is a library for web apps that lets you manipulate DOM, jus
 Reference: [React Routing](https://programmingwithmosh.com/react/react-router-add-the-power-of-navigation/)
 
 
-### React API: Axois
-- Axois is used for make asynchronous HTTP requests.
+### React API: Axios
+- Axios is used for make asynchronous HTTP requests.
 
-Reference: [Axois](http://zetcode.com/javascript/axios/)
+Reference: [Axios](http://zetcode.com/javascript/axios/)
 
 ### React learning Task
 
 ## Task 1:
 - Setup React project.
-- Download required packages(Axois for API).
+- Download required packages(Axios for API).
 - Access the json data from the Link - [User Json data](https://jsonplaceholder.typicode.com/users)
 - Design the page link below images(Image 1 and Image 2)
 - Create two componets like user card and user display.
