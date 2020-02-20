@@ -130,9 +130,9 @@ Reference: [React Routing](https://programmingwithmosh.com/react/react-router-ad
 
 Reference: [Axios](http://zetcode.com/javascript/axios/)
 
-### React learning Task
+## React learning Task
 
-## Task 1:
+### Task 1:
 - Setup React project.
 - Download required packages(Axios for API).
 - Access the json data from the Link - [User Json data](https://jsonplaceholder.typicode.com/users)
