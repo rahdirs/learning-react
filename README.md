@@ -109,6 +109,43 @@ express.urlencoded | parses incoming requests with URL-encoded payloads.
 ## React Lifecycle
 ![React Lifecycle](img/react-lifecycle.png)
  
- 
+
+### React Routing
+- Navigating one page to another page or another componets.
+
+Package | Description
+--------|------------
+react-router |  is the core
+react-router-dom | web application(wrapped around react-router with extra router elements like BrowserRouter and NavLink)
+react-router-native | native development
+react-router-redux | integrate react-redux and react-router
+react | React is a library for creating user interfaces.
+react-DOM | ReactDOM is a library for web apps that lets you manipulate DOM, just like jquery but in react style
+
+Reference: [React Routing](https://programmingwithmosh.com/react/react-router-add-the-power-of-navigation/)
 
 
+### React API: Axois
+- Axois is used for make asynchronous HTTP requests.
+
+Reference: [Axois](http://zetcode.com/javascript/axios/)
+
+### React learning Task
+
+## Task 1:
+- Setup React project.
+- Download required packages(Axois for API).
+- Access the json data from the Link - (User Json data)[https://jsonplaceholder.typicode.com/users]
+- Design the page link below images(Image 1 and Image 2)
+- Create two componets like user card and user display.
+	- User card Component (Image 1)
+	- User detail component(Image 2)
+- Pass the user details as props to user detail child component from user card compontent.
+
+# Image 1:
+
+![User list Page](img/react-user-list.png)
+
+# Image 2:
+
+![User list Page](img/react-user-detail.png)
