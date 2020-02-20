@@ -132,7 +132,6 @@ Reference: [Axios](http://zetcode.com/javascript/axios/)
 
 ## React learning Task
 
-### Task 1:
 - Setup React project.
 - Download required packages(Axios for API).
 - Access the json data from the Link - [User Json data](https://jsonplaceholder.typicode.com/users)
